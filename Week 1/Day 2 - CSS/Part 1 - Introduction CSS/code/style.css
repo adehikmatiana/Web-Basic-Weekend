@@ -1,0 +1,27 @@
+p {
+    font-family: serif;
+    line-height: 1.75em;
+}
+
+i {
+    font-family: sans;
+    color: purple;
+}
+
+h2 {
+    font-family: sans;
+    color: #e580ff;
+}
+
+.tiana {
+    font-size: 30px;
+    color: black;
+    text-transform: capitalize;
+    background-color: hotpink;
+    /* background-position: 10px 50px; */
+}
+
+.ade {
+    background-color: cornsilk;
+    text-transform: uppercase;
+}
